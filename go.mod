@@ -1,4 +1,4 @@
-module omoqo/ice-management
+module ice-management
 
 go 1.18
 
