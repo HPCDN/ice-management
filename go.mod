@@ -1,4 +1,4 @@
-module github.com/HPCDN/ice-management
+module omoqo/ice-management
 
 go 1.18
 
